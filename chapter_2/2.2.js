@@ -12,3 +12,5 @@ const result = Math.pow(a, 2) + 10/Math.sqrt(Math.pow(a, 2) + 1);
 // const result = numerator/denominator;
 
 console.log(result);
+
+// Добавить валидацию на числа
